@@ -1,0 +1,28 @@
+.theme-editor {
+    padding: 15px 20px;
+}
+
+.title {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.editor-row{
+    display: flex;
+    justify-content: space-between;
+    gap:20px;
+    text-align: left;
+    margin: 25px 0;
+}
+
+.editor-column{
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+}
+
+.editor-pair {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+}
